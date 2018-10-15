@@ -1,0 +1,7 @@
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\bin\Debug\PubSubTests.dll
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\bin\Debug\PubSubTests.pdb
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\bin\Debug\PubSub.exe
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\bin\Debug\PubSub.pdb
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\obj\Debug\PubSubTests.csprojResolveAssemblyReference.cache
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\obj\Debug\PubSubTests.dll
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSubTests\obj\Debug\PubSubTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSub\bin\Debug\PubSub.exe.config
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSub\bin\Debug\PubSub.exe
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSub\bin\Debug\PubSub.pdb
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSub\obj\Debug\PubSub.exe
+C:\Users\Sonia\Documents\Visual Studio 2012\Projects\PubSub\PubSub\obj\Debug\PubSub.pdb
